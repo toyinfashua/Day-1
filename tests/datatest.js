@@ -79,7 +79,7 @@ describe("Data types tests ", function() {
     });
 
   });
-
+  ();
 
   describe("Case for functions", function() {
 

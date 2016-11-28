@@ -1,4 +1,4 @@
-var quest = {
+var bin = {
 	dataTypes: function(data) {
 		if ('') {
 			return 0;
@@ -34,4 +34,4 @@ var quest = {
         });
 	}	
 };
-module.exports = quest;
+module.exports = bin;
